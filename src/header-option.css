@@ -11,10 +11,13 @@
   color: black;
 }
 
-.headerOption___title {
+.headerOption__title {
   font-size: 12px;
   font-weight: 400;
 }
 
-.headerOption___icon {
+.headerOption__icon {
+  object-fit: contain !important;
+  height: 25px !important;
+  width: 25px !important;
 }
